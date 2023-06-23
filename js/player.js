@@ -4,6 +4,23 @@ window.addEventListener("DOMContentLoaded", () => {
   let playlist = [
     {name: "Faixa - 01 Kiko Chicabana", src: "web/FAIXA-01.mp3"},
     {name: "Faixa - 02 Kiko Chicabana", src: "web/FAIXA-02.mp3"},
+    {name: "Faixa - 03 Kiko Chicabana", src: "web/FAIXA-03.mp3"},
+    {name: "Faixa - 04 Kiko Chicabana", src: "web/FAIXA-04.mp3"},
+    {name: "Faixa - 05 Kiko Chicabana", src: "web/FAIXA-05.mp3"},
+    {name: "Faixa - 06 Kiko Chicabana", src: "web/FAIXA-06.mp3"},
+    {name: "Faixa - 07 Kiko Chicabana", src: "web/FAIXA-07.mp3"},
+    {name: "Faixa - 08 Kiko Chicabana", src: "web/FAIXA-08.mp3"},
+    {name: "Faixa - 09 Kiko Chicabana", src: "web/FAIXA-09.mp3"},
+    {name: "Faixa - 10 Kiko Chicabana", src: "web/FAIXA-10.mp3"},
+    {name: "Faixa - 11 Kiko Chicabana", src: "web/FAIXA-11.mp3"},
+    {name: "Faixa - 12 Kiko Chicabana", src: "web/FAIXA-12.mp3"},
+    {name: "Faixa - 13 Kiko Chicabana", src: "web/FAIXA-13.mp3"},
+    {name: "Faixa - 14 Kiko Chicabana", src: "web/FAIXA-14.mp3"},
+    {name: "Faixa - 15 Kiko Chicabana", src: "web/FAIXA-15.mp3"},
+    {name: "Faixa - 16 Kiko Chicabana", src: "web/FAIXA-16.mp3"},
+    {name: "Faixa - 17 Kiko Chicabana", src: "web/FAIXA-17.mp3"},
+    {name: "Faixa - 18 Kiko Chicabana", src: "web/FAIXA-18.mp3"},
+    {name: "Faixa - 19 Kiko Chicabana", src: "web/FAIXA-19.mp3"},
   ];
 
   // (A2) AUDIO PLAYER & GET HTML CONTROLS
