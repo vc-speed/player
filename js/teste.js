@@ -2,8 +2,8 @@ window.addEventListener("DOMContentLoaded", () => {
   // (A) PLAYER INIT
   // (A1) PLAYLIST - CHANGE TO YOUR OWN!
   let playlist = [
-    {name: "FAIXA 01", src: "https://freshly-ground.com/data/audio/sm2/Figub%20Brazlevi%C4%8D%20-%20Bosnian%20Syndicate.mp3"},
-    {name: "FAIXA 02", src: "http://freshly-ground.com/data/audio/sm2/Figub%20Brazlevi%C4%8D%20-%20Bosnian%20Syndicate.mp3"},
+    {name: "FAIXA 01 - KIKO", src: "https://freshly-ground.com/data/audio/sm2/Figub%20Brazlevi%C4%8D%20-%20Bosnian%20Syndicate.mp3"},
+    {name: "FAIXA 02 - KIKO", src: "http://freshly-ground.com/data/audio/sm2/Figub%20Brazlevi%C4%8D%20-%20Bosnian%20Syndicate.mp3"},
   ];
 
   // (A2) AUDIO PLAYER & GET HTML CONTROLS
