@@ -2,8 +2,8 @@ window.addEventListener("DOMContentLoaded", () => {
   // (A) PLAYER INIT
   // (A1) PLAYLIST - CHANGE TO YOUR OWN!
   let playlist = [
-    {name: "Sugar Plum Fairy", src: "web/FAIXA-01.mp3"},
-    {name: "If I Had A Chicken", src: "web/FAIXA-02.mp3"},
+    {name: "Faixa - 01 Kiko Chicabana", src: "web/FAIXA-01.mp3"},
+    {name: "Faixa - 02 Kiko Chicabana", src: "web/FAIXA-02.mp3"},
   ];
 
   // (A2) AUDIO PLAYER & GET HTML CONTROLS
