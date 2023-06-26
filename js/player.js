@@ -4,7 +4,7 @@ window.addEventListener("DOMContentLoaded", () => {
   let playlist = [
     {name: "Faixa - 01 Kiko Chicabana", src: "web/FAIXA-01.mp3"},
     {name: "Faixa - 02 Kiko Chicabana", src: "web/FAIXA-02.mp3"},
-    {name: "Faixa - 03 Kiko Chicabana", src: "web/FAIXA-03.mp3"},
+    {name: "Faixa - 03 Kiko Chicabana", src: "https://github.com/vc-speed/player/raw/main/web/FAIXA%20(1).mp3"},
     {name: "Faixa - 04 Kiko Chicabana", src: "web/FAIXA-04.mp3"},
     {name: "Faixa - 05 Kiko Chicabana", src: "web/FAIXA-05.mp3"},
     {name: "Faixa - 06 Kiko Chicabana", src: "web/FAIXA-06.mp3"},
